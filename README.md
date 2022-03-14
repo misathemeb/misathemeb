@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on a discogs dupe
-- 🌱 I’m currently learning SwiftUI, while sharpening my skills in React and Python3
+- 🌱 At this moment, I am learning SwiftUI, while sharpening my skills in React and Python3
 - 🤔 I’m making a career change and looking for help with a front-end gig preferably in health tech.
 - 💬 Ask me about science, music or travel!
 - 📫 How to reach me: [Twitter](https://twitter.com/misathemeb) [Instagram](https://www.instagram.com/misathemeb/) [Linkedin](https://www.linkedin.com/in/melissa-bridi-ba8103122/)
