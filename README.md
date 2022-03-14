@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a discogs dupe
+- 🔭 I’m currently working on a discogs dupe, spotify-like playlist generator and a swiftUI 'small talk generator' app
 - 🌱 At this moment, I am learning SwiftUI, while sharpening my skills in React and Python3
 - 🤔 I’m making a career change and looking for help with a front-end gig preferably in health tech.
 - 💬 Ask me about science, music or travel!
