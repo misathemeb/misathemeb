@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on a discogs dupe, spotify-like playlist generator and a swiftUI 'small talk generator' app
-- 🌱 At this moment, I am learning SwiftUI, while sharpening my skills in React and Python3
+- 🔭 I’m currently working on a countries search app w/ API, a reddit clone & recently finished a song-playlist generator utilizing the Spotify API. 
+- 🌱 At this moment, I am sharpening my skills in React and Python3 & practicing data structures/algorithms to improve performance. I would love to learn SwiftUI as well!
 - 🤔 I’m a research scientist making a career change and looking for help with a front-end gig preferably in health tech.
 - 💬 Ask me about science, music or travel!
 - 📫 How to reach me: [Twitter](https://twitter.com/misathemeb) [Instagram](https://www.instagram.com/misathemeb/) [Linkedin](https://www.linkedin.com/in/melissa-bridi-ba8103122/)
