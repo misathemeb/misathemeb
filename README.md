@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a countries search app w/ API, a reddit clone & recently finished a song-playlist generator utilizing the Spotify API. 
+- 🔭 I’m currently working on a countries search app w/ API, & recently finished a song-playlist generator utilizing the Spotify API. 
 - 🌱 At this moment, I am sharpening my skills in React and Python3 & practicing data structures/algorithms to improve performance. I would love to learn SwiftUI as well!
 - 🤔 I’m a research scientist making a career change and looking for help with a front-end gig preferably in health tech.
 - 💬 Ask me about science, music or travel!
