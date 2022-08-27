@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on a countries search app w/ API, & recently finished a song-playlist generator utilizing the Spotify API. 
-- 🌱 At this moment, I am sharpening my skills in React and Python3 & practicing data structures/algorithms to improve performance. I would love to learn SwiftUI as well!
-- 🤔 I’m a research scientist making a career change and looking for help with a front-end gig preferably in health tech.
+- 🔭 I’m currently working on a countries search app w/ REST-API, & recently finished a song-playlist generator utilizing the implicit-grant Spotify API. 
+- 🌱 I am always trying to refine my skills in React and Python3. I would love to learn SwiftUI as well!
+- 🤔 I’m a research scientist who learned how to code. I use Python in my Product Operations role at a health tech company.
 - 💬 Ask me about science, music or travel!
 - 📫 How to reach me: [Twitter](https://twitter.com/misathemeb) [Instagram](https://www.instagram.com/misathemeb/) [Linkedin](https://www.linkedin.com/in/melissa-bridi-ba8103122/)
 - 😄 Pronouns: she/her
