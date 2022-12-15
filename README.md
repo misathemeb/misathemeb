@@ -4,7 +4,7 @@
 
 
 - 🔭 I work in Product Operations at a health tech company providing technical enablement and implementation strategy, as well as developing rollout plans for new features. 
-- 🌱 I am always trying to refine my skills in React and Python3. I am currently completing a data analysis course through General Assembly.
+- 🌱 While I continue to refine my skills in React and Python3, I am also working through a 60hr data analysis course through General Assembly.
 - 🤔 I’m a research scientist who learned how to code.
 - 💬 Ask me about science, music or travel!
 - 📫 How to reach me: [Instagram](https://www.instagram.com/misathemeb/) [Linkedin](https://www.linkedin.com/in/melissa-bridi-ba8103122/)
