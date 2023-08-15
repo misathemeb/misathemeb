@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I work in Product Operations at a health tech company providing technical enablement and implementation strategy, as well as developing rollout plans for new features. 
+- 🔭 I currently work in Technical Solutions at a health tech company providing technical enablement and implementation, as well as contributing to strategic product roadmaps as a SME. 
 - 🌱 While I continue to refine my skills in React and Python3, I am also working through a 60hr data analysis course through General Assembly.
 - 🤔 I’m a research scientist who learned how to code.
 - 💬 Ask me about science, music or travel!
