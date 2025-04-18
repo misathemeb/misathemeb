@@ -1,4 +1,4 @@
-<img src="https://github.com/misathemeb/misathemeb/blob/main/github-header-image.png?raw=true" alt="banner that says Hello, I'm Melissa! Front-end developer on a brick red background with white text">
+<img src="https://github.com/misathemeb/misathemeb/blob/main/github-header-image.png?raw=true" alt="banner that says Hello, I'm Melissa! on a blue background with white text">
 
 
 
