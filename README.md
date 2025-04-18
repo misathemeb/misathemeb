@@ -6,10 +6,10 @@
 - 🔭 I currently work in Technical Solutions at a health tech company providing technical enablement and implementation, as well as contributing to strategic product roadmaps as a SME. 
 - 🌱 While I continue to refine my skills in React and Python3, I am also working through a 60hr data analysis course through General Assembly.
 - 🤔 I’m a research scientist who learned how to code.
-- 💬 Ask me about science, music or travel!
-- 📫 How to reach me: [Instagram](https://www.instagram.com/misathemeb/) [Linkedin](https://www.linkedin.com/in/melissa-bridi-ba8103122/)
+- 💬 Ask me about science, music, cycling or travel!
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/melissa-bridi-ba8103122/)
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I have visited 25 countries around the world and have used a gamma-ray IRL to kill tumor cells working in oncology research!
+- ⚡ Fun facts: I have visited 26 countries around the world and have used a gamma-ray IRL to kill tumor cells working in oncology research!
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misathemeb&layout=compact)
 
